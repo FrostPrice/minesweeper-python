@@ -11,3 +11,5 @@ And the tile can have the following values:
 - "1, 2, ..."" : Tiles where the shown number is the amount of adjacent bombs
 - "#" : Tile not revealed
 - "X" : Bomb
+
+> OBS: This was made in a Linux OS, I cannot guarantee that is going to work with other OS's, beacause there is some
